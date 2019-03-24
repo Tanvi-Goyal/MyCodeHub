@@ -19,6 +19,7 @@ public class TestClass {
 
 		Scanner s = new Scanner(System.in);
 
+		String str = s.nextLine();
 		prime(s);
 		isPalindrome(s);
 		seatingArrangement(s);
