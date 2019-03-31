@@ -45,7 +45,8 @@ public class TestClass {
 			return false;
 		}
 
-		for (int i = 2; i < n; i++) {
+		int upperLimit = (int)(Math.sqrt(n));
+		for (int i = 2; i < upperLimit; i++) {
 			if (n % i == 0)
 				return false;
 		}
