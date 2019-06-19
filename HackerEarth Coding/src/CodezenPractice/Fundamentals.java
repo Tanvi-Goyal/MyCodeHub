@@ -26,7 +26,7 @@ public class Fundamentals {
 //		termsOfAP(10);
 //		squareRoot(18);
 //		reverseNumber(1234565);
-//		decToBin(124);
+		decToBin(124);
 //		binToDec(110010100);
 //		numberPattern6(5);
 //		zeroesAndStars(6);
