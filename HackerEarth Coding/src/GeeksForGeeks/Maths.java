@@ -26,7 +26,7 @@ public class Maths {
 		    int n = s.nextInt();
 		    int[] arr = new int[n];
 		    
-		    for(int j=0;j<n-2;j++) {
+		    for(int j=0;j<n-1;j++) {
 		        arr[j] = s.nextInt();
 		    }
 		    
